@@ -5,6 +5,7 @@ AhnQirajTemple
 AhnQirajTerrace
 ALittlePatienceScenario
 AllianceBaseBeachScenario
+AllianceBeachDailyArea
 AllianceHubMoguIslandProgressionScenario
 AlliancePVPBarracks
 AncientMoguCryptScenario
@@ -46,6 +47,7 @@ COTDragonblight
 COTWarOfTheAncients
 DalaranArena
 DalaranPrison
+DarkHordeScenario
 DarkmoonFaire
 DeadminesInstance
 DeathKnightStart
@@ -53,6 +55,7 @@ DeathwingBack
 DeepholmeDungeon
 Deephome
 DeeprunTram
+DefenseOfTheAleHouseBG
 DesolaceBomb
 DireMaul
 DrakTheronKeep
@@ -77,6 +80,7 @@ GruulsLair
 GunDrak
 HallsOfReflection
 HawaiiMainLand
+HeartOfTheOldGodScenario
 HellfireDemon
 HellfireMilitary
 HellfireRaid
@@ -84,6 +88,7 @@ HellfireRampart
 HillsbradPast
 HordeAmbushScenario
 HordeBaseBeachScenario
+HordeBeachDailyArea
 HordeHubMoguIslandProgressionScenario
 HordePVPBarracks
 HyjalPast
@@ -91,7 +96,9 @@ IcecrownCitadel
 IcecrownCitadel5Man
 IsleofConquest
 JadeForestAllianceHubPhase
+JadeForestBattlefieldPhase
 JadeForestHordeStartingArea
+JainaDalaranScenario
 Kalimdor
 Karazahn
 LightningForgeMoguIslandProgressionScenario
@@ -122,6 +129,7 @@ NewRaceStartZone
 NewScholomance
 Nexus70
 Nexus80
+NexusLegendary
 NexusRaid
 Northrend
 NorthrendBG
@@ -151,8 +159,10 @@ ScenarioAlcazIsland
 ScenarioBrewmaster04
 ScenarioKlaxxiIsland
 SchoolofNecromancy
+ShadoPanArena
 Shadowfang
 ShadowpanHideout
+ShimmerRidgeScenario
 ShipyardMoguIslandProgressionScenario
 SkywallDungeon
 SkywallRaid
@@ -192,6 +202,7 @@ Uldum
 UldumDungeon
 UldumPhasedEntrance
 UldumPhaseOasis
+UldumPhaseWreckedCamp
 UtgardePinnacle
 Valgarde70
 ValleyOfPower
