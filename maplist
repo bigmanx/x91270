@@ -36,6 +36,7 @@ BrewmasterScenario01
 BrewmasterScenario03
 CataclysmCTF
 CavernsOfTime
+CelestialChallenge
 ChamberOfAspectsBlack
 ChamberofAspectsRed
 CitySiegeMoguIslandProgressionScenario
@@ -78,6 +79,7 @@ GrimBatolDungeon
 GrimBatolRaid
 GruulsLair
 GunDrak
+HalfhillScenario
 HallsOfReflection
 HawaiiMainLand
 HeartOfTheOldGodScenario
@@ -137,8 +139,10 @@ OnyxiaLairInstance
 OrgrimmarArena
 OrgrimmarGunshipPandariaStart
 OrgrimmarInstance
+OrgrimmarRaid
 PandaFishingVillageScenario
 PetBattleJadeForest
+ProvingGrounds
 ProvingGroundsScenario
 PVPLordaeron
 PVPZone01
@@ -166,6 +170,7 @@ ShimmerRidgeScenario
 ShipyardMoguIslandProgressionScenario
 SkywallDungeon
 SkywallRaid
+Stormgarde Keep
 StormstoutBrewery
 Stormwind
 StormwindGunshipPandariaStartArea
